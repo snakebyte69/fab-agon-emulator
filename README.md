@@ -1,4 +1,6 @@
-# This is a fork purely to store binaries for people who having issues building the source
+# This is a fork purely to store binaries for people who having issues building the source.
+There is a channel on the Discord where you can get help
+https://discord.gg/yMPEJqD6wP
 
 # Fab Agon Emulator
 
