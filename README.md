@@ -1,3 +1,5 @@
+# This is a fork purely to store binaries for people who having issues building the source
+
 # Fab Agon Emulator
 
 An emulator for the Agon Light, Agon Light 2, and Agon Console8 8-bit computers.
