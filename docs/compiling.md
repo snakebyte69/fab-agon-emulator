@@ -48,4 +48,9 @@ both Intel and Apple Silicon CPUs.
 
 ### Instructions
 
-TODO
+## macOS Build Instructions ##
+*Install Rust and Cargo if not already installed
+* % curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+- Close terminal, path will be updated on next launch
+* % git submodule update --init
+* % make
